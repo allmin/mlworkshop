@@ -1,4 +1,4 @@
-# Machine Learning Approaches for advanced Industrial Applications 
+# Machine Learning Approaches for Advanced Industrial Applications 
 ### Allmin Susaiyah
 Scientist (Philips Research Eindhoven, Netherlands)
 Marie Curie Fellow
