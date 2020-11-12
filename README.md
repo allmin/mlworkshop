@@ -28,3 +28,23 @@ Prior knowledge on ML or python is not required. Basic programing skills on any 
 <li> Session2- (6th Jan, 2:00 PM to 4:00PM): Traditional Machine Learning and Deep Learning
 <li> Session3- (8th Jan, 2:00 PM to 4:00PM): Image Classification using Deep Learning
 </ul>
+
+
+# Instruction to use this Repo:
+<ul>
+<li>Log into a windows 64 bit system as admin
+<li>Install and open gitbash from https://git-scm.com/download/win
+	<li>cd C:/
+	<li>git clone https://github.com/allmin/mlworkshop.git
+<li> Download https://repo.continuum.io/archive/Anaconda3-4.3.0-Windows-x86_64.exe
+<li> Navigate to the Anaconda3-4.3.0-Windows-x86_64.exe installer 
+<li> Right click and run as administrator
+<li> Click yes on the prompt
+<li> Click Next -> I Agree -> All Users -> C:\Anaconda3-> Next
+	<li> Make sure both check boxes are ticked
+<li> Click Install 
+<li> In gitbash 
+	<li> cd mlworkshop
+	<li> jupyter-notebook
+	<li> if everything is fine, it should open a page in default web browser
+</ul>
