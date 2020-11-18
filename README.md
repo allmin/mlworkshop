@@ -48,3 +48,6 @@ Prior knowledge on ML or python is not required. Basic programing skills on any 
 	+ jupyter-notebook
 	+ if everything is fine, it should open a page in default web browser
 
+# Send your feedbacks to:
+https://forms.office.com/Pages/ResponsePage.aspx?id=LXpAGnV2F02GkrOsKFMG5Oweov7MzrREomRLX5U6JdtUNzhVWDdaTVVLWUxaQVRQRDBFMUdFVEtJUC4u
+
