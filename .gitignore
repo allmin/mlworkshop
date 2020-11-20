@@ -2,3 +2,5 @@
 .ipynb_checkpoints/**
 *.pptx
 ECG signals (1000 fragments)/**
+input_images/**
+result_images/**
