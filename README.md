@@ -11,22 +11,22 @@ Prior knowledge on ML or python is not required. Basic programing skills on any 
 #	Phase1: 
 <ul>
 <li> Session1 - (18th Nov, 11:30AM to 1:00PM IST): Introduction to ML and Python
-<li> Session2 - (18th Nov, 2:00 PM to 4:00PM IST): Traditional Machine Learning and Deep Learning
-<li> Session3 - (20th Nov, 2:00 PM to 4:00PM IST): Image Classification using Deep Learning
+<li> Session2 - (18th Nov, 2:30 PM to 4:00PM IST): Traditional Machine Learning and Deep Learning
+<li> Session3 - (20th Nov, 2:30 PM to 4:00PM IST): Image Classification using Deep Learning
 </ul>
 
 #	Phase2: 
 <ul>
 <li> Session1- (9th Dec, 11:30AM to 1:00PM IST): Introduction to ML and Python
-<li> Session2- (9th Dec, 2:00 PM to 4:00PM IST): Traditional Machine Learning and Deep Learning
-<li> Session3- (11th Dec, 2:00 PM to 4:00PM IST): Image Classification using Deep Learning
+<li> Session2- (9th Dec, 2:30 PM to 4:00PM IST): Traditional Machine Learning and Deep Learning
+<li> Session3- (11th Dec, 2:30 PM to 4:00PM IST): Image Classification using Deep Learning
 </ul>
 
 #	Phase3: 
 <ul>
 <li> Session1- (6th Jan, 11:30AM to 1:00PM IST): Introduction to ML and Python
-<li> Session2- (6th Jan, 2:00 PM to 4:00PM IST): Traditional Machine Learning and Deep Learning
-<li> Session3- (8th Jan, 2:00 PM to 4:00PM IST): Image Classification using Deep Learning
+<li> Session2- (6th Jan, 2:30 PM to 4:00PM IST): Traditional Machine Learning and Deep Learning
+<li> Session3- (8th Jan, 2:30 PM to 4:00PM IST): Image Classification using Deep Learning
 </ul>
 
 
