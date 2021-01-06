@@ -52,4 +52,4 @@ Prior knowledge on ML or python is not required. Basic programing skills on any 
 https://forms.office.com/Pages/ResponsePage.aspx?id=LXpAGnV2F02GkrOsKFMG5Oweov7MzrREomRLX5U6JdtUNzhVWDdaTVVLWUxaQVRQRDBFMUdFVEtJUC4u
 
 # link for Menti
-https://www.mentimeter.com/s/14ff25c2704fff1d614502fc555a40df/792aa17694c1/edit
+https://www.mentimeter.com/s/14ff25c2704fff1d614502fc555a40df/792aa17694c1/
